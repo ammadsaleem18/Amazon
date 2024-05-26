@@ -1,24 +1,29 @@
 ## Amazon (HomePage Clone)
 
-This project is a detailed copy of the Amazon homepage made with HTML, CSS, and JavaScript. The goal is to create a similar look and feel to the real Amazon website, showing the main features and design that make Amazon a popular online store.
+This project is a detailed copy of the Amazon homepage made with HTML, CSS, and JavaScript. The goal is to create a similar look and feel to the real Amazon website, showing the main features and design that make Amazon a popular e-commerce store.
 
-You can check out the original website here: <a href="https://www.amazon.com/">Amazon</a>, and compare it with my version here: <a href="https://sidcupfamilygolf-ammad.netlify.app/">Sidcup Family Golf Clone</a>.
+You can check out the original website here: <a href="https://www.amazon.com/">Amazon</a>, and compare it with my version here: <a href="https://amazon-ammad.vercel.app/">Amazon Clone</a>.
+
+## ✨ Features
+
+- **📱 Responsive Design:** Adapts to different screen sizes and devices for a consistent user experience.
+- **🎠 Carousel Slider:** Showcases featured products and promotions on the homepage.
 
 ## 🚀 Getting Started
 
-To get started with the Sidcup Family Golf (HomePage Clone), follow these steps:
+To get started with the Amazon (HomePage Clone), follow these steps:
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/ammadsaleem18/Sidcup-Family-Golf.git
+   git clone https://github.com/ammadsaleem18/Amazon.git
 
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd Sidcup-Family-Golf
+   cd Amazon
 
    ```
 
@@ -42,7 +47,6 @@ To get started with the Sidcup Family Golf (HomePage Clone), follow these steps:
 - **HTML:** For the structure of the website.
 - **CSS:** For the styling of the website.
 - **JavaScript:** For the functionality of the website.
-- **GSAP:** For Smooth Animations of the website.
 
 ## 🤝 Contributing
 
