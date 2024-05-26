@@ -1,4 +1,4 @@
-## Amazon (HomePage Clone)
+## Ammad - Amazon (HomePage Clone)
 
 This project is a detailed copy of the Amazon homepage made with HTML, CSS, and JavaScript. The goal is to create a similar look and feel to the real Amazon website, showing the main features and design that make Amazon a popular e-commerce store.
 
